@@ -1,0 +1,54 @@
+body {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu {
+  padding: 15px;
+  text-align: right;
+}
+
+button {
+  padding: 20px;
+  margin: 10px;
+}
+
+div {
+  padding: 15px;
+  text-align: center;
+}
+
+#search {
+  height: 25px;
+  width: auto;
+}
+
+h1 {
+  font: bold 48px;
+  color: darkblue;
+  text-align: center;
+}
+
+label {
+  height: 25px;
+  width: 175px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+input {
+  height: 25px;
+  width: 250px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.grid-item {
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */
